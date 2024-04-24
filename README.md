@@ -67,3 +67,9 @@ StreamYoink! is released under the MIT License.
 * Made possible by the support of the [Superfluid Team](https://www.superfluid.finance/)
 
 Thank you for your interest in StreamYoink! We're excited to see how you engage with the frame.
+
+### 参考文献
+1. [StreamYoink! : A Farcaster game based on Superfluid](https://docs.superfluid.finance/docs/protocol/money-streaming/examples/example2)
+2. [Superfluid オンライン勉強会](https://www.youtube.com/watch?v=pZwCk4REfUI)
+3. [frames.js Quickstart](https://framesjs.org/#quickstart)
+4. [frame.js GitHub Quickstart](https://github.com/framesjs/frames.js?tab=readme-ov-file#quick-start)
