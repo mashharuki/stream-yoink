@@ -73,3 +73,4 @@ Thank you for your interest in StreamYoink! We're excited to see how you engage 
 2. [Superfluid オンライン勉強会](https://www.youtube.com/watch?v=pZwCk4REfUI)
 3. [frames.js Quickstart](https://framesjs.org/#quickstart)
 4. [frame.js GitHub Quickstart](https://github.com/framesjs/frames.js?tab=readme-ov-file#quick-start)
+5. [SuperFuild Console](https://console.superfluid.finance/)
