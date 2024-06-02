@@ -22,26 +22,25 @@ To get started with StreamYoink!, follow these simple steps:
 
    ```bash
    git clone https://github.com/youssefea/stream-yoink.git
-    ```
+   ```
 
 2. Navigate to the game's directory:
-    
-    ```bash
-    cd stream-yoink
-    ```
-    
+
+   ```bash
+   cd stream-yoink
+   ```
+
 3. Install the necessary dependencies:
-    
-    ```bash
-    npm install
-    ```
-    
+
+   ```bash
+   yarn
+   ```
+
 4. Start the development server:
-    
-    ```bash
-    npm run dev
-    ```
-    
+
+   ```bash
+   yarn dev
+   ```
 
 Now, your the frame shouls on http://localhost:3000 (or 3001, or whichever port is specified in your configuration).
 
@@ -63,12 +62,13 @@ StreamYoink! is released under the MIT License.
 
 ## Acknowledgments
 
-* Inspired by [Yoink](https://warpcast.com/~/channel/yoink) ([@horsefacts.eth](https://terminally.online/))
-* Made possible by the support of the [Superfluid Team](https://www.superfluid.finance/)
+- Inspired by [Yoink](https://warpcast.com/~/channel/yoink) ([@horsefacts.eth](https://terminally.online/))
+- Made possible by the support of the [Superfluid Team](https://www.superfluid.finance/)
 
 Thank you for your interest in StreamYoink! We're excited to see how you engage with the frame.
 
 ### 参考文献
+
 1. [StreamYoink! : A Farcaster game based on Superfluid](https://docs.superfluid.finance/docs/protocol/money-streaming/examples/example2)
 2. [Superfluid オンライン勉強会](https://www.youtube.com/watch?v=pZwCk4REfUI)
 3. [frames.js Quickstart](https://framesjs.org/#quickstart)
